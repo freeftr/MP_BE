@@ -29,10 +29,9 @@ awesome image
 <br/>
 
 ## Backend
-
+![infra.png](res/infra.png)
 <div align="center">
   <h3> 인프라 아키텍처 </h3>
-  ![infra.png](res/infra.png)
 </div>
 
 
